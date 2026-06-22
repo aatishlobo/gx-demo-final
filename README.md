@@ -17,3 +17,21 @@ Requires Python 3.10–3.13. Verify your install:
 ```bash
 python -c "import great_expectations as gx; print(gx.__version__)"
 ```
+
+## Demo
+
+```bash
+python 01_inspect_data.py
+```
+
+```bash
+python 02_build_expectation_suite.py
+```
+
+```bash
+python 03_validate_and_report.py
+```
+
+```bash
+python 04_run_checkpoint.py
+```
