@@ -12,12 +12,6 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Requires Python 3.10–3.13. Verify your install:
-
-```bash
-python -c "import great_expectations as gx; print(gx.__version__)"
-```
-
 ## Demo
 
 ```bash
