@@ -5,8 +5,8 @@
 **Before** the presentation starts:
 
 ```bash
-git clone <this-repo-url>
-cd <repo-folder>
+git clone [<this-repo-url>](https://github.com/aatishlobo/gx-demo-final.git)
+cd gx-demo-final
 python3 -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
