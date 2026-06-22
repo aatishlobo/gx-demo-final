@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+gx/
+data/quarantined_rows.csv
+.DS_Store
